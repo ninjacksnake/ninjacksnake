@@ -1,4 +1,4 @@
-https://photos.app.goo.gl/2zrdKNjX4qo3xmZF9
+
 <h1> Michael Fermin </h1>
 <ul>
  <li>A software developer that has more than 4 years of experience in software development focussed on delivering quality software.</li>  
