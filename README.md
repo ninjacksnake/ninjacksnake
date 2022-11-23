@@ -11,6 +11,7 @@
 <li>Has the hability to lead, ment and teach teammates.</li> 
 <li>Has worked as a key developer for the congress on projects that includes (National Budget Information Portal, Sistem Of Legislative Information (SIL) and Documents Indexer)   
 </ul>
+
 ## SKILLS
 
 
