@@ -1,16 +1,19 @@
 
 <h1> Michael Fermin </h1>
+
 <ul>
- <li>A software developer that has more than 4 years of experience in software development focussed on delivering quality software.</li>  
-<li>Has experience creating valuable software for business.</li> 
-<li>Has Worked as a software developer and participate actively in the process of analysis and software design.</li> 
-<li>Worked as a member of agile (scrum) teams and contributing to the resolution of technological challenges and creating strategies with the team.</li>
-<li>Had work at Verizon as Developer/Automation team Leader, maintaining always an environment of teamwork, good comunication, productivity and respect.</li> 
-<li> A quick learner that strives to improve his knowledge constantly </li>
-<li>Has the facility to work as a team member.</li> 
-<li>Has the hability to lead, ment and teach teammates.</li> 
-<li>Has worked as a key developer for the congress on projects that includes (National Budget Information Portal, Sistem Of Legislative Information (SIL) and Documents Indexer)   
-</ul>
+<ul>
+    <li> <p align='justify'>A software developer that has more than 4 years of experience in software development focussed on delivering quality software.</p></li>  
+    <li> <p align='justify'> Has experience creating valuable software for business. </p></li> 
+    <li> <p align='justify'>Has Worked as a software developer and participate actively in the process of analysis and software design.</p></li> 
+    <li> <p align='justify'>Worked as a member of agile (scrum) teams and contributing to the resolution of technological challenges and creating strategies with the team.</p></li>
+    <li> <p align='justify'>Had work at Verizon as Developer/Automation team Leader, maintaining always an environment of teamwork, good comunication, productivity and respect.</p></li> 
+    <li> <p align='justify'>A quick learner that strives to improve his knowledge constantly</p> </li>
+    <li><p align='justify'> Has the facility to work as a team member.</p></li> 
+    <li> <p align='justify'>Has the hability to lead, ment and teach teammates.</p></li> 
+    <li><p align='justify'> Has worked as a key developer for the congress on projects that includes (National Budget Information Portal, Sistem Of Legislative Information (SIL) and Documents Indexer)   </p>
+ </ul>
+
 
 ## SKILLS
 
