@@ -26,16 +26,91 @@
  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  
  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+ ![Static Badge](https://img.shields.io/badge/Angular-blue)
+ 
+
+
 
 and others ...
  
  
-## PROJECTS
+## PORTAFOLIO
+
+## Fullstack -
+### Agricultural Application
+https://agroninja.onrender.com
+<ul>
+    <li>React</li>
+    <li>Postgres</li>
+    <li>Node.js (API) </li>
+    <li>Express.js</li>
+    <li>AWS</li>
+    <li>"Api Integrations"</li>
+    <li>"MonoRepo"</li>
+</ul>
+
+### Chat application 
+https://ninchat.onrender.com/
+<ul>
+    <li> React </li>
+    <li> Socket Io </li>
+    <li> Node.js (API) </li>
+    <li> Express.js </li>
+    <li> Mongo Db </li>
+</ul>
+
+https://ninja-cv.onrender.com/login 
+https://github.com/ninjacksnake/ninja-cv
+https://github.com/ninjacksnake/ninja-cv-api
+<ul>
+    <li>React</li>
+    <li>Postgres</li>
+    <li>Node.js (API) </li>
+    <li>Express.js</li>
+    <li>pdf.js</li>
+    <li>"Api Integrations"</li>
+   
+</ul>
+
+
+### Simple User Login
+https://github.com/ninjacksnake/simple_user_login
+<ul>
+    <li>Node.js (Api)</li>
+    <li>Express.js (front)</li>
+    <li> Ejs (templating) </li>
+    <li>JWT</li>
+    <li>MVC / Repository</li>
+    <li> SSR (SERVER SIDE RENDERING) </li>
+</ul>
+
+## FrontEnd
+https://dominicanareporta.onrender.com
+<ul>React</ul>
+<ul>React Router</ul>
+
+## Backend
+
+### Lets game Api
+https://github.com/ninjacksnake/lets_game_api
+<ul>
+    <li>Nest.js</li>
+    <li> Node.js </li>
+    <li> Dockers </li>
+</ul>
+
+### WebHook Master
+https://github.com/ninjacksnake/webHookMarketPlace
+<ul>
+    <li> Express.js </li>
+    <li> Node.js </li>
+    <li> Dockers </li>
+</ul>
 
 ##  ANOTHER REPO
 https://gitlab.com/ninjacksnake
 
-Under construction ....
+
 
 <!---
 ninjacksnake/ninjacksnake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
