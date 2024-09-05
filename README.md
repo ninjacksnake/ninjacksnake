@@ -58,10 +58,9 @@ https://ninchat.onrender.com/
     <li> Express.js </li>
     <li> Mongo Db </li>
 </ul>
-
-https://ninja-cv.onrender.com/login 
-https://github.com/ninjacksnake/ninja-cv
-https://github.com/ninjacksnake/ninja-cv-api
+<li>https://ninja-cv.onrender.com/login</li>  
+<li>https://github.com/ninjacksnake/ninja-cv</li>
+<li>https://github.com/ninjacksnake/ninja-cv-api</li>
 <ul>
     <li>React</li>
     <li>Postgres</li>
